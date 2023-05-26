@@ -1,0 +1,105 @@
+#divheader IMG{
+    width: 15%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#divheader{
+    text-align: center;
+    text-indent: 2%;
+    font-size: 150%;
+}
+
+
+#divulmenu li{
+    display:inline;
+    text-align: center;
+    padding: 3%;
+}
+
+#divsub-navigation{
+    display: inline-block;
+}
+
+#divmaincontent{
+    background-color: rgb(156, 101, 20);
+}
+
+#divsub-navigation{
+    float: left;
+}
+
+#divarticle{
+    float: right;
+}
+
+#Trending img{
+    width: 25%;
+    padding: 2%;
+    margin: auto;
+}
+
+#divsocialmedia{
+    padding: 5%;
+    margin: auto;
+}
+
+#FB{
+    display: block;
+    
+}
+
+input[type=text],textarea{
+    width: 50%;
+    padding: 0.75em;
+    display: block;
+}
+
+
+#cinemas img{
+    width: 25%;
+    padding: 2%;
+    margin: auto;
+}
+
+#online img{
+    width: 25%;
+    padding: 3%;
+    margin: auto;
+}
+
+#apps img{
+    margin: auto;
+    width: 20%;
+    padding: 1%;
+}
+
+#h1{
+    margin: auto;
+    text-align: justify;
+}
+
+#Streaming img{
+    width: 20%;
+    margin: auto;
+    padding: 2%;
+}
+
+#divarticle{
+    border: 10%;
+    border-color: black;
+    margin: 3%;
+    padding: auto;
+}
+
+#popular img{
+    width: 20%;
+    padding: 2%;
+    margin: auto;
+}
+
+#socialmedia img{
+    padding: 1%;
+
+}
